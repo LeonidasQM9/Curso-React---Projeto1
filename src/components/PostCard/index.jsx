@@ -8,4 +8,4 @@ export const PostCard = ({ title, cover, body, id }) => (
       <p>{body}</p>
     </div>
   </div>
-)
+);
